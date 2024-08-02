@@ -1,0 +1,66 @@
+<DOCTYPE>
+ main.CSS>
+html>
+
+head>
+ style>
+center>
+title>Zen
+/title>
+
+/head>
+ <center>
+    
+
+<body { 
+    background-image: url ("img_namaste.jpg");
+    background-repeat: no-repeat;
+background-position: center;
+}
+h1 {
+    color: black;
+text-emphasis-color: black;
+text-align: center;
+}
+  p{
+    height: 6000px; 
+    width: 200px;
+    line-height: 30px;
+} 
+p{
+    font: black;
+}
+h2 {
+    This is Isabella's SafeSpace
+}
+
+  <center>
+      Yin Yang
+       </center>
+.my_image
+{
+    background: url ('path/to/img_meditation-relaxing-gif');
+    margin: right 200px;
+}
+<h5
+ Release and Let Go
+</h5>
+
+p {
+    font-size: 50px;
+}
+
+
+
+    <script>
+    
+        alert("This is a customizable popup")
+
+    </script>
+
+</body> 
+.footer {
+    text-align: center;
+    margin-right: 200px;
+}
+</html>
